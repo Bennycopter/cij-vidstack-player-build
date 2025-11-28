@@ -1,0 +1,21 @@
+import { defineCustomElement } from '../chunks/vidstack-Bu2kfzUd.js';
+import { MediaPlayerElement, MediaProviderElement } from '../chunks/vidstack-BK2JQLAY.js';
+import '../chunks/vidstack-BDXUCVWp.js';
+import '../chunks/vidstack-DFImIcIL.js';
+import '../chunks/vidstack-CjhKISI0.js';
+import '../chunks/vidstack-BFg1ZqiG.js';
+import '../chunks/vidstack-Di87p2JI.js';
+import '../chunks/vidstack-zG6PIeGg.js';
+import '../chunks/vidstack-CzJmytw5.js';
+import '../chunks/vidstack-28cU2iGK.js';
+import '../chunks/vidstack-Dv_LIPFu.js';
+import '../chunks/vidstack-Bpr4fI4n.js';
+import '../chunks/vidstack-DbBJlz7I.js';
+import '../chunks/vidstack-C_l97D5j.js';
+import '@floating-ui/dom';
+import '../chunks/vidstack-qBE10yxF.js';
+import '../chunks/vidstack-Dihypf8P.js';
+import '../chunks/vidstack-CofXIJAy.js';
+
+defineCustomElement(MediaPlayerElement);
+defineCustomElement(MediaProviderElement);
